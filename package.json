@@ -1,0 +1,23 @@
+{
+  "name": "civserver",
+  "version": "1.0.0",
+  "description": "A civilization board game server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/a-z-ivanov/civserver.git"
+  },
+  "author": "Alexander Ivanov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/a-z-ivanov/civserver/issues"
+  },
+  "homepage": "https://github.com/a-z-ivanov/civserver",
+  "dependencies": {
+    "express": "^4.10.2"
+  }
+}
